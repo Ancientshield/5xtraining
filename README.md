@@ -1,10 +1,15 @@
 # 5xtraining
 
 * UI draft
+
 https://i.imgur.com/mS7A9yZ.png
+
 https://i.imgur.com/3AwPDyj.png
+
 https://i.imgur.com/eaM4HOA.png
+
 https://i.imgur.com/8oUw2Iu.png
+
 https://i.imgur.com/qQluxut.png
 
 * Ruby version
