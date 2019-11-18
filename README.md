@@ -19,14 +19,3 @@ Rails 6.0.1
 PostgreSQL 11.5
 
 ![avatar](https://i.imgur.com/0NEFWBK.png)
-
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
