@@ -18,7 +18,7 @@ Rails 6.0.1
 * Database creation
 PostgreSQL 11.5
 
-![avatar](https://i.imgur.com/sNlQEXA.png)
+![avatar](https://i.imgur.com/0NEFWBK.png)
 
 
 * Database initialization
